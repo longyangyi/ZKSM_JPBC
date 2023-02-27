@@ -1,4 +1,4 @@
-# ZKSM_JPBC: a java implement of ZKSM (Zero-Knowledge Set Membership) based on JPBC
+# ZKSM_JPBC: a java implementation of ZKSM (Zero-Knowledge Set Membership) based on JPBC
 
 
 #### read this paper:
